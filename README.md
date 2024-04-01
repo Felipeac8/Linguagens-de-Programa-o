@@ -31,7 +31,7 @@ Para rodar este projeto, você precisa ter o seguinte instalado em seu sistema:
 
 ## Versão do JDK
 
-O projeto foi desenvolvido e testado com o JDK 8.
+O projeto foi desenvolvido e testado com o JDK 17.
 
 ## Bibliotecas Utilizadas
 
